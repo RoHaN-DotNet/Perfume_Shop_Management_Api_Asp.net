@@ -1,0 +1,319 @@
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\appsettings.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\AppApi.staticwebassets.endpoints.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\AppApi.exe
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\AppApi.deps.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\AppApi.runtimeconfig.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\AppApi.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\AppApi.pdb
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\BLL.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\BLL.pdb
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.csproj.AssemblyReference.cache
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.AssemblyInfoInputs.cache
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.AssemblyInfo.cs
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.csproj.CoreCompileInputs.cache
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\scopedcss\bundle\AppApi.styles.css
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.csproj.Up2Date
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\refint\AppApi.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.pdb
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\AppApi.genruntimeconfig.cache
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\ref\AppApi.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\DAL.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\DAL.pdb
+C:\Users\Shahariar\source\repos\Perfume\AppApi\bin\Debug\net10.0\AutoMapper.dll
+C:\Users\Shahariar\source\repos\Perfume\AppApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\Perfume Base\AppApi\bin\Debug\net10.0\appsettings.Development.json
+E:\Perfume Base\AppApi\bin\Debug\net10.0\appsettings.json
+E:\Perfume Base\AppApi\bin\Debug\net10.0\AppApi.staticwebassets.endpoints.json
+E:\Perfume Base\AppApi\bin\Debug\net10.0\AppApi.exe
+E:\Perfume Base\AppApi\bin\Debug\net10.0\AppApi.deps.json
+E:\Perfume Base\AppApi\bin\Debug\net10.0\AppApi.runtimeconfig.json
+E:\Perfume Base\AppApi\bin\Debug\net10.0\AppApi.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\AppApi.pdb
+E:\Perfume Base\AppApi\bin\Debug\net10.0\AutoMapper.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Azure.Core.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Azure.Identity.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Humanizer.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.ClientModel.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.CodeDom.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Drawing.Common.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Runtime.Caching.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Security.Permissions.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\System.Windows.Extensions.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\BLL.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\DAL.dll
+E:\Perfume Base\AppApi\bin\Debug\net10.0\BLL.pdb
+E:\Perfume Base\AppApi\bin\Debug\net10.0\DAL.pdb
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.csproj.AssemblyReference.cache
+E:\Perfume Base\AppApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.AssemblyInfoInputs.cache
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.AssemblyInfo.cs
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.csproj.CoreCompileInputs.cache
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Perfume Base\AppApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Perfume Base\AppApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Perfume Base\AppApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Perfume Base\AppApi\obj\Debug\net10.0\scopedcss\bundle\AppApi.styles.css
+E:\Perfume Base\AppApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\Perfume Base\AppApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Perfume Base\AppApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\Perfume Base\AppApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Perfume Base\AppApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.csproj.Up2Date
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.dll
+E:\Perfume Base\AppApi\obj\Debug\net10.0\refint\AppApi.dll
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.pdb
+E:\Perfume Base\AppApi\obj\Debug\net10.0\AppApi.genruntimeconfig.cache
+E:\Perfume Base\AppApi\obj\Debug\net10.0\ref\AppApi.dll

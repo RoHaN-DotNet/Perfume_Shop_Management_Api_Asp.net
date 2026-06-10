@@ -1,0 +1,748 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Perfume Base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\ef\\models\\perfume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\perfume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\appapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\interfaces\\iorderfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iorderfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\ef\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\perfumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\perfumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\controllers\\perfumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\controllers\\perfumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\services\\perfumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\services\\perfumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\repos\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\interfaces\\icustomerfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icustomerfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\repos\\perfumerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\perfumerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\repos\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\interfaces\\iorderitemfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iorderitemfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\interfaces\\iperfumefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iperfumefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\ef\\psms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\psms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\ef\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\ef\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\categoryperfumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\categoryperfumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|e:\\perfume base\\appapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91963613-2992-A223-26EE-AC7138BC3C5F}|AppApi\\AppApi.csproj|solutionrelative:appapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\interfaces\\icategoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icategoryfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|e:\\perfume base\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|e:\\perfume base\\dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC51636-0162-07A1-3BEC-F7BC3375F5F9}|DLL\\BLL.csproj|solutionrelative:dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OrderRepo.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OrderRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:55:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfume.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\EF\\Models\\Perfume.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Perfume.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\EF\\Models\\Perfume.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Perfume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:31:14.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderFeature.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Interfaces\\IOrderFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IOrderFeature.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Interfaces\\IOrderFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IOrderFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:54:02.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "DLL\\Services\\OrderService.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "DLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA3wGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:28:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AppApi\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AppApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:13:15.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AppApi\\appsettings.json",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\appsettings.json*",
+              "RelativeToolTip": "AppApi\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T20:54:26.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppApi.csproj",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\AppApi.csproj",
+              "RelativeDocumentMoniker": "AppApi\\AppApi.csproj",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\AppApi.csproj",
+              "RelativeToolTip": "AppApi\\AppApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T20:24:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetailsDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\OrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\OrderDetailsDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\OrderDetailsDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\OrderDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:41:44.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderCreateDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\OrderCreateDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\OrderCreateDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\OrderCreateDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\OrderCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:44:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\Program.cs",
+              "RelativeDocumentMoniker": "AppApi\\Program.cs",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\Program.cs",
+              "RelativeToolTip": "AppApi\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAEwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:45:20.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerfumeController.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\Controllers\\PerfumeController.cs",
+              "RelativeDocumentMoniker": "AppApi\\Controllers\\PerfumeController.cs",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\Controllers\\PerfumeController.cs",
+              "RelativeToolTip": "AppApi\\Controllers\\PerfumeController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:12:55.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "AppApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "AppApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:13:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\EF\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Order.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\EF\\Models\\Order.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:31:50.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PerfumeDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\PerfumeDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\PerfumeDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\PerfumeDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\PerfumeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:16:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "DLL\\Services\\CustomerService.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\Services\\CustomerService.cs",
+              "RelativeToolTip": "DLL\\Services\\CustomerService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:28:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PerfumeService.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\Services\\PerfumeService.cs",
+              "RelativeDocumentMoniker": "DLL\\Services\\PerfumeService.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\Services\\PerfumeService.cs",
+              "RelativeToolTip": "DLL\\Services\\PerfumeService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:26:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:27:01.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Repos\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CustomerRepo.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Repos\\CustomerRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CustomerRepo.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:55:01.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CategoryRepo.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Repos\\CategoryRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CategoryRepo.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:55:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICustomerFeature.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Interfaces\\ICustomerFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICustomerFeature.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Interfaces\\ICustomerFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICustomerFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:53:36.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PerfumeRepo.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Repos\\PerfumeRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PerfumeRepo.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Repos\\PerfumeRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PerfumeRepo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:54:40.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItemRepo.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Repos\\OrderItemRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OrderItemRepo.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Repos\\OrderItemRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OrderItemRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:55:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PSMS.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\EF\\PSMS.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\PSMS.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\EF\\PSMS.cs",
+              "RelativeToolTip": "DAL\\EF\\PSMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:42:43.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPerfumeFeature.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Interfaces\\IPerfumeFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IPerfumeFeature.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Interfaces\\IPerfumeFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IPerfumeFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:46:07.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderItemFeature.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Interfaces\\IOrderItemFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IOrderItemFeature.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Interfaces\\IOrderItemFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IOrderItemFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:54:32.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\EF\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\OrderItem.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\EF\\Models\\OrderItem.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:32:05.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\EF\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Customer.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\EF\\Models\\Customer.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:32:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\EF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Category.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\EF\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:31:31.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "DLL\\MapperConfig.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\MapperConfig.cs",
+              "RelativeToolTip": "DLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:40:30.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "DLL\\Services\\OrderItemService.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "DLL\\Services\\OrderItemService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:28:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "DLL\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "DLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:27:33.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\OrderItemDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\OrderItemDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:17:47.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\OrderDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:17:28.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:17:12.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryPerfumeDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\CategoryPerfumeDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\CategoryPerfumeDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\CategoryPerfumeDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\CategoryPerfumeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:36:50.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DLL\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "DLL\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:16:37.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "AppApi\\Controllers\\OrderItemController.cs",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "AppApi\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:13:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\AppApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AppApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Perfume Base\\AppApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AppApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:12:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryFeature.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Interfaces\\ICategoryFeature.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICategoryFeature.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Interfaces\\ICategoryFeature.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICategoryFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:09:59.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:36:51.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "E:\\Perfume Base\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T20:25:42.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "DLL\\BLL.csproj",
+              "ToolTip": "E:\\Perfume Base\\DLL\\BLL.csproj",
+              "RelativeToolTip": "DLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T21:00:05.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "E:\\Perfume Base\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:24:33.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Perfume Base\\DLL\\Class1.cs",
+              "RelativeDocumentMoniker": "DLL\\Class1.cs",
+              "ToolTip": "E:\\Perfume Base\\DLL\\Class1.cs",
+              "RelativeToolTip": "DLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:24:07.228Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

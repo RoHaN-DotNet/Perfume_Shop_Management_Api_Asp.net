@@ -1,0 +1,28 @@
+C:\Users\Shahariar\source\repos\Perfume\DAL\bin\Debug\net10.0\DAL.deps.json
+C:\Users\Shahariar\source\repos\Perfume\DAL\bin\Debug\net10.0\DAL.dll
+C:\Users\Shahariar\source\repos\Perfume\DAL\bin\Debug\net10.0\DAL.pdb
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.dll
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\refint\DAL.dll
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.pdb
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\ref\DAL.dll
+C:\Users\Shahariar\source\repos\Perfume\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+C:\Users\Shahariar\source\repos\Perfume\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+E:\Perfume Base\DAL\bin\Debug\net10.0\DAL.deps.json
+E:\Perfume Base\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+E:\Perfume Base\DAL\bin\Debug\net10.0\DAL.dll
+E:\Perfume Base\DAL\bin\Debug\net10.0\DAL.pdb
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.dll
+E:\Perfume Base\DAL\obj\Debug\net10.0\refint\DAL.dll
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.pdb
+E:\Perfume Base\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+E:\Perfume Base\DAL\obj\Debug\net10.0\ref\DAL.dll

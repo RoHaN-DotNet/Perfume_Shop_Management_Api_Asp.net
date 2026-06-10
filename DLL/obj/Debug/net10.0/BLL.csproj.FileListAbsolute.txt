@@ -1,0 +1,30 @@
+C:\Users\Shahariar\source\repos\Perfume\DLL\bin\Debug\net10.0\BLL.deps.json
+C:\Users\Shahariar\source\repos\Perfume\DLL\bin\Debug\net10.0\BLL.dll
+C:\Users\Shahariar\source\repos\Perfume\DLL\bin\Debug\net10.0\BLL.pdb
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.dll
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\refint\BLL.dll
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.pdb
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\ref\BLL.dll
+C:\Users\Shahariar\source\repos\Perfume\DLL\bin\Debug\net10.0\DAL.dll
+C:\Users\Shahariar\source\repos\Perfume\DLL\bin\Debug\net10.0\DAL.pdb
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Shahariar\source\repos\Perfume\DLL\obj\Debug\net10.0\BLL.csproj.Up2Date
+E:\Perfume Base\DLL\bin\Debug\net10.0\BLL.deps.json
+E:\Perfume Base\DLL\bin\Debug\net10.0\BLL.dll
+E:\Perfume Base\DLL\bin\Debug\net10.0\BLL.pdb
+E:\Perfume Base\DLL\bin\Debug\net10.0\DAL.dll
+E:\Perfume Base\DLL\bin\Debug\net10.0\DAL.pdb
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.csproj.Up2Date
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.dll
+E:\Perfume Base\DLL\obj\Debug\net10.0\refint\BLL.dll
+E:\Perfume Base\DLL\obj\Debug\net10.0\BLL.pdb
+E:\Perfume Base\DLL\obj\Debug\net10.0\ref\BLL.dll
